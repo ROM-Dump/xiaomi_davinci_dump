@@ -1,0 +1,20 @@
+## davinci-user 11 RKQ1.200826.002 21.11.24 release-keys
+- Manufacturer: xiaomi
+- Platform: sm6150
+- Codename: davinci
+- Brand: Xiaomi
+- Flavor: davinci-user
+- Release Version: 11
+- Kernel Version: 4.14.180
+- Id: RKQ1.200826.002
+- Incremental: 21.11.24
+- Tags: release-keys
+- CPU Abilist: arm64-v8a,armeabi-v7a,armeabi
+- A/B Device: false
+- Treble Device: true
+- Locale: zh-CN
+- Screen Density: 440
+- Fingerprint: Xiaomi/davinci/davinci:11/RKQ1.200826.002/21.11.24:user/release-keys
+- OTA version: 
+- Branch: davinci-user-11-RKQ1.200826.002-21.11.24-release-keys
+- Repo: xiaomi_davinci_dump

@@ -1,0 +1,4 @@
+# Miscellaneous
+persist.sys.qseelogd=true
+ro.miui.build.region=cn
+
